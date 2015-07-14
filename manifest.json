@@ -1,0 +1,21 @@
+{
+ "name": "Unstumble",
+ "description": "Automatically break out of the StumbleUpon jail.",
+ "homepage_url": "http://zacharyflower.com",
+ "content_scripts": [
+ 	{
+ 		"matches": ["*://*.stumbleupon.com/su/*"],
+ 		"js": ["unstumble.js"],
+ 		"run_at": "document_end"
+ 	}
+ ],
+ "icons": {
+     "16": "icon-16.png",
+     "48": "icon-48.png",
+     "128": "icon-128.png" },
+ "permissions": [
+     "*://*/*"
+ ],
+ "version": "0.2",
+ "manifest_version": 2
+}
