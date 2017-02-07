@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/zachflower/unstumble-chrome-extension/badges/gpa.svg)](https://codeclimate.com/github/zachflower/unstumble-chrome-extension) [![Chrome Web Store](https://img.shields.io/chrome-web-store/d/pmifhkljbaaaiobphihehgipahcmdgdh.svg)](https://chrome.google.com/webstore/detail/unstumble/pmifhkljbaaaiobphihehgipahcmdgdh?hl=en-US&gl=US) [![Beerpay](https://beerpay.io/zachflower/unstumble-chrome-extension/badge.svg?style=flat)](https://beerpay.io/zachflower/unstumble-chrome-extension)
+[![Code Climate](https://codeclimate.com/github/zachflower/unstumble-chrome-extension/badges/gpa.svg)](https://codeclimate.com/github/zachflower/unstumble-chrome-extension) [![Chrome Web Store](https://img.shields.io/chrome-web-store/d/pmifhkljbaaaiobphihehgipahcmdgdh.svg)](https://chrome.google.com/webstore/detail/unstumble/pmifhkljbaaaiobphihehgipahcmdgdh?hl=en-US&gl=US)
 
 Ever click on an interesting link only to find that the actual URL is hidden by StumbleUpon?
 
